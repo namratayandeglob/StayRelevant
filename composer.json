@@ -1,7 +1,7 @@
 {
-  "name": "drupalpoc",
+  "name": "stayrelevant",
   "type": "drupal-profile",
-  "description": "drupalpoc",
+  "description": "Stay Relevant",
   "repositories": [
     {
       "type": "composer",

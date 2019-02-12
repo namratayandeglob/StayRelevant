@@ -1,8 +1,5 @@
-name: drupalpoc
+name: stayrelevant
 recipe: drupal8
-
 config:
-  via: apache
-  webroot: docroot
-  drush: composer
+  webroot: docroot  
   xdebug: true

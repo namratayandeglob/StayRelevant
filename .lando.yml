@@ -1,0 +1,8 @@
+name: drupalpoc
+recipe: drupal8
+
+config:
+  via: apache
+  webroot: docroot
+  drush: composer
+  xdebug: true

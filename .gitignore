@@ -1,0 +1,17 @@
+
+docroot/core
+docroot/sites/*/files
+/files-private
+docroot/sites/*/private
+docroot/modules/contrib
+docroot/themes/contrib
+docroot/profiles/contrib
+docroot/libraries
+drush/contrib
+
+
+# OS X
+.DS_Store
+
+#Composer vendor
+vendor/
